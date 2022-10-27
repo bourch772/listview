@@ -23,7 +23,7 @@
 
 <?php
 include('dp.php');
-$html = file_get_html('http://www.milffox.com/');
+$html = file_get_html('');
 ob_start();
 
 // Find all images
